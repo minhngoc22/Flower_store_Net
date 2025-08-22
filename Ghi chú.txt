@@ -1,0 +1,24 @@
+NOTE:
+THÊM DANH MỤC  -> VÀO CBO DANH MỤC -> CHUỘT PHẢI -> NHẬP DANH MỚI -> OK
+CHẠY CSDL -> CHẠY TỪNG PHẦN TRỪ DECLARE PHẢI ĐI CHUNG VỚI INSERT
+
+
+SẢN PHẨM - MÔ TẢ
+sp14 - Tím Yêu Thương-Một giỏ hoa xinh xắn kết hợp giữa tulip trắng tinh khôi và lavender tím dịu dàng, được gói trong chiếc giỏ mây mộc mạc, điểm thêm nơ lụa tím nổi bật. Màu trắng tượng trưng cho sự thuần khiết và lòng biết ơn, trong khi sắc tím thể hiện sự thủy chung và tình cảm sâu đậm.
+
+Đây là món quà lý tưởng để bày tỏ tình yêu và lòng tri ân đến người mẹ thân yêu – người phụ nữ dịu dàng, luôn bao dung và yêu thương vô điều kiện.
+
+👉 Gợi ý dịp tặng: Ngày của Mẹ, sinh nhật mẹ, 8/3, hoặc đơn giản chỉ là một ngày bạn muốn gửi lời cảm ơn đến mẹ từ tận đáy lòng.
+
+sp19 - Tulip Sớm Mai-Những nụ hoa tulip hồng dịu dàng, đọng sương mai nhẹ như lời thì thầm đầu ngày. Tulip hồng tượng trưng cho tình yêu trong sáng và những cảm xúc nhẹ nhàng, chân thành. Được cột nơ Dior sang trọng, bó hoa này cực kỳ thích hợp cho các dịp như tặng bạn gái, mẹ hoặc trong những buổi hẹn hò lãng mạn.
+
+sp12 - bó hoa nắng hạ
+
+sp13 - bó hoa hồng pastel
+
+sp22 - Lắng Đọng Sen Hồng - Một giỏ hoa tinh tế kết hợp giữa sen hồng, hoa hồng, mẫu đơn và đài sen – tạo nên vẻ đẹp cổ điển nhưng vẫn rất hiện đại. Với gam màu hồng ngọt ngào và sắc xanh nhẹ nhàng, sản phẩm này không chỉ mang đến vẻ thanh lịch mà còn thể hiện sự tinh khiết và lòng thành kính. Phù hợp cho các dịp sinh nhật, lễ tri ân, hoặc đơn giản là một món quà để gửi gắm yêu thương.
+
+sp18 - Chuông Trắng Tinh Khôi - Bó hoa với hoa chuông trắng (Campanula) tượng trưng cho sự thuần khiết, bình yên và lời chúc phúc nhẹ nhàng. Mỗi bông hoa như một chiếc chuông nhỏ đang ngân vang bản nhạc an lành, mang đến cảm giác thư thái cho người nhận. Phù hợp cho những dịp trang trọng hoặc tặng người thân yêu như lời cảm ơn chân thành.
+
+
+

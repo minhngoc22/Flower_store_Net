@@ -1,0 +1,19 @@
+BCrypt.Net-Next (4.0.3)
+
+ClosedXML (0.104.2)
+
+Guna.UI2.WinForms (2.0.4.7)
+
+itext7 (9.1.0)
+
+itext7.bouncy-castle-adapter (9.1.0)
+
+Microsoft.EntityFrameworkCore (8.0.0)
+
+Microsoft.EntityFrameworkCore.SqlServer (8.0.0)
+
+Microsoft.EntityFrameworkCore.Tools (8.0.0)
+
+Microsoft.Office.Interop.Excel (15.0.0)
+
+System.Drawing.Common (9.0.2)
